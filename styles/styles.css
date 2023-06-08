@@ -3,9 +3,15 @@ body {
     color: darkmagenta;
     background-color: beige;
 }
+
 li {
     color: crimson;
 }
+
 h3 {
     color: navy;
+}
+
+h2 {
+    color: magenta;
 }
